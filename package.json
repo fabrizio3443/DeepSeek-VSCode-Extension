@@ -2,6 +2,7 @@
   "name": "chexx-deepseek-ext",
   "displayName": "Chexx-deepseek-ext",
   "description": "Deepseek generative AI extension",
+  "repository": "https://github.com/fabrizio3443/DeepSeek-VSCode-Extension",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
