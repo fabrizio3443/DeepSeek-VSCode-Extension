@@ -2,7 +2,7 @@
 
 DeepSeek VSCode extV1
 
-This is a basic tool to chat to your AI agent through VS Code. Made for fun.
+This is a basic tool to chat to your AI agent through VS Code following Fireship's tutorial. Made for fun.
 
 # Pre-requisites
 
