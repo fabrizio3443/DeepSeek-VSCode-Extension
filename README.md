@@ -1,7 +1,8 @@
 # chexx-deepseek-ext README
 
 DeepSeek VSCode extV1
-Basic tool for ollama text chat.
+
+This is a basic tool to chat to your AI agent through VS Code. Made for fun.
 
 # Pre-requisites
 
